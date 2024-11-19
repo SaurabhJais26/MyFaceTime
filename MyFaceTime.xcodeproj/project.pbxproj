@@ -314,6 +314,7 @@
 				DEVELOPMENT_TEAM = T3YWA5D992;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyFaceTime/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Facetime;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow access to share video during call.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow access to share audio during call.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -343,6 +344,7 @@
 				DEVELOPMENT_TEAM = T3YWA5D992;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyFaceTime/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Facetime;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow access to share video during call.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow access to share audio during call.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

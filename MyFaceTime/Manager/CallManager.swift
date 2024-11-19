@@ -35,7 +35,7 @@ class CallManager {
         )
         // StreamVideo
         let video = StreamVideo(
-            apiKey: "",
+            apiKey: "mz5xtqsbyzpb",
             user: credential.user,
             token: credential.token) { result in
             // Refresh token via real backend
